@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f31cc609cba7b0615521a315138e788e",
+    "revision": "b489750139b349d5e8b7f518e46733a1",
     "url": "/rainy/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rainy/static/css/2.7df38a7a.chunk.css"
   },
   {
-    "revision": "89e77f6be454e480b32d",
+    "revision": "f9dc2cf838f3626538a6",
     "url": "/rainy/static/css/main.2d6ddef7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rainy/static/js/2.f0f4c907.chunk.js"
   },
   {
-    "revision": "89e77f6be454e480b32d",
-    "url": "/rainy/static/js/main.42544d71.chunk.js"
+    "revision": "f9dc2cf838f3626538a6",
+    "url": "/rainy/static/js/main.1dbe4321.chunk.js"
   },
   {
     "revision": "6ffc816de377a99de3de",
